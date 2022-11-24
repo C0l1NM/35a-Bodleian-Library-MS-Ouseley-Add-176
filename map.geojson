@@ -1,21 +1,21 @@
 {"type":"FeatureCollection", "features":[
   {"type":"Feature","properties":
     {"id":1,
-    "chapter":"Chapter 1: The Folio",
+    "chapter":"Chapter 1: Introduction",
     "zoom":1,
-    "image":"img/pictorial-st-louis.png",
-    "source-credit":"Source: Library of Congres",
+    "image":"",
+    "source-credit":"",
     "source-link":"https://lccn.loc.gov/rc01001392",
     "description":"\"Firdowsi’s Shahnamah often portrays struggles between good and evil such as those of Feridun and Zahhak (Shamsayi, 2017). The image of The Murder  of Iraj is no different as it portrays the moments after Tur murders his brother Iraj.\n\n In the Shanameh Faridun divides his empire up between his three sons. The oldest son, Salm is given the west, the middle son, tur, is given Asia, and the youngest, Iraj, is given Persia. Salm and Tur become upset that Iraj gets Persia which is considered the most important and significant of the three and they plot to murder Iraj. When confronted, Iraj pleads with his brothers to avoid violence and offers them his kingdom to appease them. Tur disregards Iraj’s rationale and ends up stabbing him and then removing his head, which is what is being portrayed in the Image here. Tur and Salm then have a messenger send Iraj’s body back to their father, who is devastated. Faridun decides he wants to seek revenge for Iraj’s murder. To do so, Faridun finds Iraj’s Daughter who eventually gives birth to a son named Minucltihr. When Tur and Salm found out about the birth of Minucltihr they sent an envoy to try and make peace. However, this did not go well and Faridun and Minuclithihr sought their vengeance. War was declared and Minucltihr eventually ended up killing Tur in battle and removing his head, as Tur had done to Iraj (ferdowsi 1905, 171-225)."},
     "geometry":{"type":"Point","coordinates":[3319,4092]}},
   {"type":"Feature","properties":
     {"id":2,
-    "chapter":"Chapter 2: Clouds",
+    "chapter":"Chapter 2: Character backgrounds",
     "zoom":5,
-    "image":"img/pictorial-st-louis-1832.png",
-    "source-credit":"Source: Library of Congress",
+    "image":"",
+    "source-credit":"",
     "source-link":"https://lccn.loc.gov/rc01001392",
-    "description":"\"The preliminary drawings for this work were made early in the spring of 1874. After a careful consideration of the subject, it was determined to locate the point of view so that the city would be seen from the southeast, believing that to be the most advantageous in all respects. Accordingly, the point of site was established on the Illinois side of the river, looking to the northwest, and at sufficient altitude to overlook the roofs of ordinary houses into the streets. A careful perspective, which required a surface of three hundred square feet, was then erected from a correct survey of the city, extending northward from Arsenal Island...\""},
+    "description":"\"The Murder of Iraj show the two brothers Iraj and Tur and it is important to understand who these two are and why the behave the way they do in this image and the story.\n\n   Iraj is the youngest of Faridun’s three sons but is often praised as being the most popular. Iraj, along with his brothers, was married to one of the princesses of Yemen. His name means “noble” and speaks to his character. This is shown once, when Faridun tests the three boys by turning into a dragon and Iraj reacts by yelling to the dragon that they were not afraid of it because they were the sons of Feridun; and again when he is killed by his brother, he never resorts to violence, but instead tries to reason with Tur and tells him that he would give up his power so they could continue to be brothers.\n\n Tur, on the other hand is the middle child and like Iraj marries one of the Yemen princesses. He is known for being rash but brave. This is shown during the same encounter with the dragon (Faridun), as he boldly rushes in to accept the dragon's challenge. His rash behaviour is also displayed when he decides to kill Iraj (Shahbazi 2004).\n\n As stated above the boys are each given individual kingdoms. Iraj is given Persia and Tur China. This decision is made by Faridun because he believes that Iraj is the most righteous and noble of the boys and he should therefore oversee the most important kingdom. This decision ultimately leads to the resentment of Iraj from Tur and Salm and eventually his death."},
     "geometry":{"type":"Point","coordinates":[1385,1360]}},
   {"type":"Feature","properties":
     {"id":3,
