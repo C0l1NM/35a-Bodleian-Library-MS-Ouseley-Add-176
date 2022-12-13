@@ -2,7 +2,7 @@
   {"type":"Feature","properties":
     {"id":1,
     "chapter":"Chapter 1: Bodleian Library MS. Ouseley Add. 176 fol. 35a",
-    "zoom":1,
+    "zoom":2,
     "image":"",
     "source-credit":"",
     "source-link":"https://lccn.loc.gov/rc01001392",
@@ -11,7 +11,7 @@
   {"type":"Feature","properties":
     {"id":2,
     "chapter":"Chapter 2: Character backgrounds",
-    "zoom":5,
+    "zoom":3,
     "image":"",
     "source-credit":"",
     "source-link":"https://lccn.loc.gov/rc01001392",
@@ -38,7 +38,7 @@
   {"type":"Feature","properties":
     {"id":5,
     "chapter":"Chapter 5: Geography",
-    "zoom":3,
+    "zoom":2,
     "image":"",
     "source-credit":"",
     "source-link":"https://lccn.loc.gov/2012586260",
@@ -47,7 +47,7 @@
   {"type":"Feature","properties":
     {"id":6,
     "chapter":"Chapter 6: Clothing",
-    "zoom":5,
+    "zoom":3,
     "image":"",
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
@@ -56,7 +56,7 @@
 {"type":"Feature","properties":
     {"id":6,
     "chapter":"Chapter 7: Blood",
-    "zoom":5,
+    "zoom":4,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"",
     "source-link":"",
@@ -65,7 +65,7 @@
 {"type":"Feature","properties":
     {"id":6,
     "chapter":"Chapter 8: References",
-    "zoom":5,
+    "zoom":2,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"",
     "source-link":"",
@@ -74,7 +74,7 @@
 {"type":"Feature","properties":
     {"id":6,
     "chapter":"Chapter 9: How to Cite This",
-    "zoom":5,
+    "zoom":2,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"",
     "source-link":"",
