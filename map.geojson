@@ -11,7 +11,7 @@
   {"type":"Feature","properties":
     {"id":2,
     "chapter":"Chapter 2: Character backgrounds",
-    "zoom":2,
+    "zoom":3,
     "image":"",
     "source-credit":"",
     "source-link":"https://lccn.loc.gov/rc01001392",
@@ -38,7 +38,7 @@
   {"type":"Feature","properties":
     {"id":5,
     "chapter":"Chapter 5: Geography",
-    "zoom":2,
+    "zoom":3,
     "image":"",
     "source-credit":"",
     "source-link":"https://lccn.loc.gov/2012586260",
@@ -65,7 +65,7 @@
 {"type":"Feature","properties":
     {"id":8,
     "chapter":"Chapter 8: References",
-    "zoom":2,
+    "zoom":3,
     "image":"",
     "source-credit":"",
     "source-link":"",
@@ -74,8 +74,8 @@
 {"type":"Feature","properties":
     {"id":9,
     "chapter":"Chapter 9: How to Cite This",
-    "zoom":2,
-    "image":"img/pictorial-st-louis-key.png",
+    "zoom":3,
+    "image":"",
     "source-credit":"",
     "source-link":"",
     "description":"Martin, Colin (Researcher, Scriptwriter, Storyboarder, Image Editor) and Hussein Keshani (Coder). “The Murder of Iraj.” In Ibrahim Sultan’s Shahnama: A Digital Art History Student Project, edited by Hussein Keshani, November 30, 2022."},
