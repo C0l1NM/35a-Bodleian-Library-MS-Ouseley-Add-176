@@ -2,7 +2,7 @@
   {"type":"Feature","properties":
     {"id":1,
     "chapter":"Chapter 1: Bodleian Library MS. Ouseley Add. 176 fol. 35a",
-    "zoom":2,
+    "zoom":3,
     "image":"",
     "source-credit":"",
     "source-link":"https://lccn.loc.gov/rc01001392",
@@ -11,7 +11,7 @@
   {"type":"Feature","properties":
     {"id":2,
     "chapter":"Chapter 2: Character backgrounds",
-    "zoom":3,
+    "zoom":2,
     "image":"",
     "source-credit":"",
     "source-link":"https://lccn.loc.gov/rc01001392",
